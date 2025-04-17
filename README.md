@@ -4,10 +4,10 @@
 This project analyzes **global life expectancy** trends (2000-2015) using data from the World Health Organization (WHO) Global Health Observatory (GHO). The goal is to uncover key factors influencing life expectancy across different countries and identify actionable insights for public health policy.
 
 ## 🎯 Key Objectives
-✔ Examine trends in life expectancy across regions and income groups.
-✔ Identify correlations between life expectancy and factors like GDP, healthcare spending, and disease prevalence.
-✔ Predict life expectancy using regression models (e.g., Linear Regression, Random Forest).
-✔ Provide data-driven recommendations for improving global health outcomes.
+- Examine trends in life expectancy across regions and income groups.
+- Identify correlations between life expectancy and factors like GDP, healthcare spending, and disease prevalence.
+- Predict life expectancy using regression models (e.g., Linear Regression, Random Forest).
+- Provide data-driven recommendations for improving global health outcomes.
 
 ## 📂 Dataset  
 - **Source:** [Kaggle Netflix Dataset](https://drive.google.com/file/d/1NDSLORGfC-gLNlr5LILBw71UmKUjd_HG/view?usp=drive_link) 
